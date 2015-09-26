@@ -1,0 +1,11 @@
+---
+title: "Hello World"
+author: "DP"
+date: "September 18, 2015"
+output: word_document
+---
+
+```{r}
+## This is a Markdown file
+```
+
